@@ -1,5 +1,5 @@
 # require modules here
-rrequire 'yaml'
+require 'yaml'
 require 'pry'
 #emoticon_file = YAML.load_file('./lib/emoticons.yml')
 #emoticon = '(#^.^#)'
